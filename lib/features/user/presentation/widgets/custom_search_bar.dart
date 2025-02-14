@@ -1,5 +1,6 @@
 import 'package:clean_arch/features/user/presentation/widgets/get_user_button.dart';
 import 'package:flutter/material.dart';
+
 class CustomSearchBar extends StatefulWidget {
   const CustomSearchBar({
     super.key,

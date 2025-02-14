@@ -1,7 +1,6 @@
-
-class GeoEntity{
-   final String lat;
+class GeoEntity {
+  final String lat;
   final String lng;
 
-  GeoEntity(this.lat, this.lng);
+  GeoEntity({required this.lat,required this.lng});
 }
